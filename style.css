@@ -1,4 +1,11 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 .nav {
+  	margin: 0;
 	display: block;
 	background-color: #402020;
 	overflow: hidden;
@@ -23,6 +30,7 @@
 }
 
 body {
+  	margin: 0;
 	font-family: "IBM Plex Sans", monospace;
 	color: #ffffff;
 	background-color: #202020;
