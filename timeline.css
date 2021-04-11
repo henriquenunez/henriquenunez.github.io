@@ -141,6 +141,13 @@ body {
   color: #1ff22a;
 }
 
+.container .content h3 {
+  margin: 0 0 10px 0;
+  font-size: 15px;
+  font-weight: normal;
+  color: #1ff22a;
+}
+
 .container .content p {
   margin: 0;
   font-size: 16px;
