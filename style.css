@@ -41,6 +41,10 @@ p {
 	display: block;
 }
 
+iframe {
+	display: block;
+}
+
 .link {
 	color: white;
 	display: inline-block;
