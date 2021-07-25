@@ -55,3 +55,12 @@ iframe {
 	margin-right: 18%;
 }
 
+.video-grid {
+	display: flex;
+	justify-content: center;
+}
+
+.video {
+	margin: 10px;
+}
+
