@@ -1,0 +1,25 @@
+baseURL = 'https://guara.eu/'
+languageCode = 'en-us'
+title = "Hiram's home page"
+theme = 'ananke'
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/henrique-nunez/"
+
+[[params.ananke_socials]]
+name = "mastodon"
+url = "https://mastodon.social/@littlealmeida"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/henriquenunez"
+
+[[params.ananke_socials]]
+name = "gitlab"
+url = "https://gitlab.com/henriquenunez"
+
+[[menu.main]]
+  name = "Resume"
+  url = "/resume.pdf"
+  weight = 1
