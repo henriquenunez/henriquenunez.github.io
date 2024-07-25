@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-# menu:
-#     main:
-#         weight: 1
+menu:
+    main:
+        weight: 1
 ---
