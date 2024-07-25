@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Garden Box"
 date: 2023-08-20T23:16:00-03:00
 draft: false 
@@ -26,4 +26,4 @@ I wouldn't be able to just get away with an irrigation system, so I wanted to in
 
 Yes, we need a box, because it is a garden box. So I designed a 3D printed box to contain the electronics so the rain wouldn't destroy it.
 
-- 3D printed pics
+- 3D printed pics -->

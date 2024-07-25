@@ -19,7 +19,7 @@ url = "https://github.com/henriquenunez"
 name = "gitlab"
 url = "https://gitlab.com/henriquenunez"
 
-[[menu.main]]
-  name = "Resume"
-  url = "/resume.pdf"
-  weight = 1
+#[[menu.main]]
+#  name = "Resume"
+#  url = "/resume.pdf"
+#  weight = 1

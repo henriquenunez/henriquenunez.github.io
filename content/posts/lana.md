@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Lidar Assisted Navigator"
 date: 2023-07-14T16:53:35-03:00
 draft: false 
@@ -40,4 +40,4 @@ fifo, and it had basically 2 problems:
 After some research and googling, I was able to open a matplotlib animation
 with an appropriate backend. This made the application much more responsive and
 self contained, solving the problems that appeared in the 1st attempt.
-
+ -->
