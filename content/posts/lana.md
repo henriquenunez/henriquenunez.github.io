@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Lidar Assisted Navigator"
 date: 2023-07-14T16:53:35-03:00
 draft: false 
@@ -12,6 +12,13 @@ mobile robot was able to navigate an environment with obstacles and reach a
 predefined target. The logic could be simulated, or we could actually build a
 robot for that, although time was short for the latter option. For the sake of
 learning and simplicity, this project was developed using Webots.
+
+## Videos
+
+
+{{< rawhtml >}}    
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r-8J8FtJNU8?si=aQU2We5dldgSe-0y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< /rawhtml >}}
 
 ## The setup
 
@@ -40,4 +47,4 @@ fifo, and it had basically 2 problems:
 After some research and googling, I was able to open a matplotlib animation
 with an appropriate backend. This made the application much more responsive and
 self contained, solving the problems that appeared in the 1st attempt.
- -->
+

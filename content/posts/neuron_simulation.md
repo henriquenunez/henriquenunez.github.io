@@ -1,7 +1,7 @@
-<!-- ---
+---
 title: "Neuron Simulation"
 date: 2023-07-14T17:43:31-03:00
-draft: false
+draft: true
 ---
 
 One of the subjects I took during my exchange semester at UAM Madrid was Neuroinformatics. For an assignment, we were required to simulate neurons using different mathematical and statistical models.
@@ -18,4 +18,4 @@ The connection scheme used is flow the charges to and from the neighboring neuro
 
 ## Demonstration
 
-The main task was to create multiple scenarios, varying the grid size and the connection parameters, such as 4-neighbordhood and neuron coupling. Look at this [animation](https://youtube.com/shorts/w9DCjTIrgjs). -->
+The main task was to create multiple scenarios, varying the grid size and the connection parameters, such as 4-neighbordhood and neuron coupling. Look at this [animation](https://youtube.com/shorts/w9DCjTIrgjs).

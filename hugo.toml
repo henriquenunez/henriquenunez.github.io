@@ -1,4 +1,4 @@
-baseURL = 'https://guara.eu/'
+baseURL = 'https://guara.tech/'
 languageCode = 'en-us'
 title = "Hiram's home page"
 theme = 'ananke'

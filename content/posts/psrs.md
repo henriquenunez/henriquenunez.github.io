@@ -1,7 +1,7 @@
-<!-- ---
+---
 title: "Parallel Sorting with Random Sampling"
 date: 2023-07-18T22:12:00-03:00
-draft: false
+draft: true
 ---
 
 ## Introduction
@@ -25,4 +25,4 @@ The full implementation (mostly working) is available on a [repo](https://github
 
 ```
 batata snippet
-``` -->
+```
